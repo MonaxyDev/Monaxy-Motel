@@ -4,4 +4,4 @@ Merhabalar resmon optimizasyonu olan E tuşu ile kapı açma sistemine sahip Ox 
 
  /yenioda yazarak odanızı değiştirebilirsiniz
 
- Oda da kaldıysanız Kitli şekilde /odacik yazarak dışarı cıkabilirsiniz 
+ Oda da kaldıysanız /odacik yazarak dışarı cıkabilirsiniz 

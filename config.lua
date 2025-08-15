@@ -18,14 +18,14 @@ Config.Depo = {
     StashMaxWeight = 5000000
 }
 
-Config.OdaDegisCommand = 'yenioda'
+Config.OdaDegisCommand = 'yenioda' 
 
 Config.OdaCik = {
     [1] = {
-        Area = vector3(323.5, -217.26, 54.09),
-        Radius = 45.0,
-        Spawn = vector4(324.7921, -209.8511, 54.0938, 160.7537),
-        Command = 'odacik'
+        Area = vector3(323.5, -217.26, 54.09), -- odacik yarıçapı merkezi
+        Radius = 45.0, --odacik yarıçapı 
+        Spawn = vector4(324.7921, -209.8511, 54.0938, 160.7537), -- odacik yazdığında spawnlanacağın yer
+        Command = 'odacik' 
     }
 }
 
@@ -45,3 +45,4 @@ Config.Oda = {
     [13] = {door = vector3(343.08, -209.54, 58.02), h = 248.909, doortext = vector3(343.094, -209.64, 58.0150),  stash = vector3(343.63, -214.27, 58.02),  clothe = vector3(347.95, -215.52, 58.02),  locked = true},
     [14] = {door = vector3(346.69, -199.66, 58.02), h = 248.909, doortext = vector3(346.924, -199.73, 58.0150),  stash = vector3(347.49, -204.41, 58.02),  clothe = vector3(351.77, -205.64, 58.02),  locked = true},
 }
+
